@@ -58,6 +58,7 @@ header {
    text-align: center;
    overflow: hidden;
    background-attachment: fixed;
+   min-height: 900px;
 }
 
 /* vertically center banner section */
