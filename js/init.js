@@ -8,13 +8,14 @@
 /* ========================================================================= */
 /*	Preloader
 /* ========================================================================= */
-jQuery(window).load(function () {
+
+/*jQuery(window).load(function () {
 
     $("#preloader").fadeOut("slow");
 
 });
 
-$(document).ready(function ($) {
+$(document).ready(function ($) {*/
 
 
 
