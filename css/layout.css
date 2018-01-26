@@ -75,6 +75,7 @@ header .banner {
    width: 85%;
    padding-bottom: 30px;
    text-align: center;
+   margin-top: 15%;
 }
 
 header .banner-text { width: 100%; }
