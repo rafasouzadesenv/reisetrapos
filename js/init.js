@@ -12,7 +12,7 @@
 
     $("#preloader").fadeOut("slow");
 
-});
+});*/
 
 $(document).ready(function ($) {
 
